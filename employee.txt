@@ -1,0 +1,130 @@
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+136, Henry,   Huckleberry,41234.5
+824, Tom,     Tomato,     83768.95
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+092, Zachary, Zucchini,  120000.52
+123, Beau,    Vine,      142500
+882, Bjorn,   Free,       65000
+495, Pete,    Zah,       102468.2
+246, Win E.,  De Poo,     68123
+222, Moe,     Skeeto,     12789.8
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+973, Amy,     Asparagus,  83768.95
+542, Charles, Cucumber,   36900
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+642, Gregory, Grape,      61200
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+136, Henry,   Huckleberry,41234.5
+824, Tom,     Tomato,     83768.95
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+123, Beau,    Vine,      142500
+882, Bjorn,   Free,       65000
+200, Rita,    Rutabaga,    9876.2
+642, Gregory, Grape,      61200
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+222, Moe,     Skeeto,     12789.8
+987, Jed I.,  Knight,   1000000.01
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+824, Tom,     Tomato,     83768.95
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+123, Beau,    Vine,      142500
+882, Bjorn,   Free,       65000
+200, Rita,    Rutabaga,    9876.2
+123, Beau,    Vine,      142500
+882, Bjorn,   Free,       65000
+495, Pete,    Zah,       102468.2
+246, Win E.,  De Poo,     68123
+222, Moe,     Skeeto,     12789.8
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+973, Amy,     Asparagus,  83768.95
+542, Charles, Cucumber,   36900
+092, Zachary, Zucchini,  120000.52
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+642, Gregory, Grape,      61200
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+136, Henry,   Huckleberry,41234.5
+824, Tom,     Tomato,     83768.95
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+092, Zachary, Zucchini,  120000.52
+628, Susan,   Squash,     58400.32
+136, Henry,   Huckleberry,41234.5
+824, Tom,     Tomato,     83768.95
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+642, Gregory, Grape,      61200
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+136, Henry,   Huckleberry,41234.5
+824, Tom,     Tomato,     83768.95
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+123, Beau,    Vine,      142500
+882, Bjorn,   Free,       65000
+200, Rita,    Rutabaga,    9876.2
+246, Win E.,  De Poo,     68123
+222, Moe,     Skeeto,     12789.8
+987, Jed I.,  Knight,   1000000.01
+164, Teddy,   Baer,       42500
+248, Allie,   Gator,      65000
+812, Sally,   Mander,     53000
+973, Amy,     Asparagus,  83768.95
+542, Charles, Cucumber,   36900
+092, Zachary, Zucchini,  120000.52
+764, Otto,    Orange,     32589.5
+249, Ellen,   Endive,    101050
+896, Fred,    Fennel,     56874.05
+200, Rita,    Rutabaga,    9876.2
+642, Gregory, Grape,      61200
+384, Paula,   Pear,       62100
+628, Susan,   Squash,     58400.32
+812, Sally,   Mander,     53000
+973, Amy,     Asparagus,  83768.95
