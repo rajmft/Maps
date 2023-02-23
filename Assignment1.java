@@ -1,15 +1,5 @@
 package assignment1;
 
-/**
- * @author Maddison Tidball Assignment 1. This program will read from a CSV file
- * with employee information, then show a menu to the user with the options to
- * display information, add new employee, or search for an employee and display
- * the data. This program will also implement HashMaps to track attendance from
- * the employee object.
- *
- * @since January 28, 2023. I have followed the UNCG Academic Integrity policy
- * on this assignment.
- */
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
